@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UASSalmanSQLite</string>
+    <string name="alamat_e_mail">Alamat E-mail</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="daftar_mahasiswa">Daftar Mahasiswa</string>
+    <string name="simpan">Simpan</string>
+</resources>
